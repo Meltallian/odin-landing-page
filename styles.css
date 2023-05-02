@@ -67,7 +67,7 @@ img{
     font-weight: bolder;
     color:#1F2937;
     padding:10px;
-    margin-bottom:100px;
+    margin-bottom:30px;
     padding-top: 50px;
 }
 .team{
@@ -75,23 +75,38 @@ img{
     padding-left: 100px;
     padding-right:100px;
     padding-bottom: 100px;
-    gap:50px;
-    
-    
-    
+    gap:50px; 
 }
 
 .class{
     flex:1;
-    display:flex;
-    
+    display:flex; 
     flex-direction: column;
-    width:100px;
-    height:100px;
     justify-content: center;
     text-align: center;
+    object-fit: contain;
 }
 
 .titre{
     padding-top: 10px;
+}
+.third{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    padding:50px 150px 50px;
+    
+
+}
+.quote{
+    text-align: center;
+    font-style: italic;
+    font-size: 36px;
+    color:#1F2937;
+    
+}
+.author{
+    justify-content: flex-end;
+    text-align: end;
+    font-weight: bold;
 }
