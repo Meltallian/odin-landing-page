@@ -138,5 +138,11 @@ img{
     font-weight: bold;
     width:100px;
     border-style: outset;
-    
+}
+.footer{
+    background-color:#1F2937;
+    color:white;
+    padding: 30px;
+    justify-content: center;
+    text-align: center;
 }
