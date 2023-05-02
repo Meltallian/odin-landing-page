@@ -95,14 +95,14 @@ img{
     background-color: bisque;
     display: flex;
     flex-direction: column;
-    padding:50px 150px 50px;
+    padding:50px 200px 50px;
     
 
 }
 .quote{
     text-align: center;
     font-style: italic;
-    font-size: 36px;
+    font-size: 26px;
     color:#1F2937;
 
 }
