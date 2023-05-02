@@ -76,6 +76,7 @@ img{
     padding-right:100px;
     padding-bottom: 100px;
     gap:50px; 
+    flex-wrap: wrap;
 }
 
 .class{
@@ -103,7 +104,7 @@ img{
     font-style: italic;
     font-size: 36px;
     color:#1F2937;
-    
+
 }
 .author{
     justify-content: flex-end;
