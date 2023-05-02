@@ -1,4 +1,6 @@
-
+body{
+    background-color: antiquewhite;
+}
 .first{
     background-color:#1F2937;
     margin:0px;
@@ -114,4 +116,27 @@ img{
 }
 .text{
     font-size:22px;
+}
+.fourth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    margin: 80px;
+    background-color:rgb(248, 153, 36);
+}
+.bold{
+    font-weight: bold;
+}
+.button2{
+    background-color: rgb(248, 153, 36);
+    margin-top:10px ;
+    border-radius:5px;
+    padding:8px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    width:100px;
+    border-style: outset;
+    
 }
